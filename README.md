@@ -1,0 +1,1 @@
+# certified-terraform-associate
