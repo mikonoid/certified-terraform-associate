@@ -16,7 +16,7 @@ This repo is agregated guide for preparation to Hashicorp terraform associate ex
 ## Example questions
 
 
-How can you reference all of the subnets that are created by this resource block?
+<b>How can you reference all of the subnets that are created by this resource block?</b>
 
 
 ```
@@ -40,7 +40,7 @@ resource "aws_subnet" "private_subnets" {
 
 </b></details>
 
-What two options are available to delete all of your managed infrastructure?
+<b>What two options are available to delete all of your managed infrastructure?</b>
 
 <details>
 <summary>Answer</summary><br><b>
