@@ -15,7 +15,7 @@ This repo is agregated guide for preparation to Hashicorp terraform associate ex
 
 ## Example questions
 
-<details>
+
 How can you reference all of the subnets that are created by this resource block?
 
 
@@ -33,13 +33,13 @@ resource "aws_subnet" "private_subnets" {
   }
 }
 ```
+<details>
 <summary>Answer</summary><br><b>
 
   ```aws_subnet.private_subnets[*]```
 
 </b></details>
 
-</b></details>
 
 
 
