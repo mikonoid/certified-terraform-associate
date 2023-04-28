@@ -45,8 +45,8 @@ resource "aws_subnet" "private_subnets" {
 <details>
 <summary>Answer</summary><br><b>
 
-  ```terraform destroy```
-  ```terraform apply -destroy```
+ * ```terraform destroy```
+ * ```terraform apply -destroy```
 
 </b></details>
 
