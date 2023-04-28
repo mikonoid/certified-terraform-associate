@@ -40,6 +40,15 @@ resource "aws_subnet" "private_subnets" {
 
 </b></details>
 
+What two options are available to delete all of your managed infrastructure?
+
+<details>
+<summary>Answer</summary><br><b>
+
+  ```terraform destroy```
+  ```terraform apply -destroy```
+
+</b></details>
 
 
 
