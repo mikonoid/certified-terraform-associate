@@ -13,6 +13,8 @@ This repo is agregated guide for preparation to Hashicorp terraform associate ex
 
 <details>
 <summary>Check list before exam</summary><br><b>
+  
+ * https://developer.hashicorp.com/terraform/tutorials/certification/associate-review
 </b></details>
 
 ## Example questions
