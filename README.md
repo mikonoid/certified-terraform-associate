@@ -52,7 +52,8 @@ resource "aws_subnet" "private_subnets" {
 
 </b></details>
 
-<b>Which option will you use to run provisioners that are not associated with any resources?
+<b>Which option will you use to run provisioners that are not associated with any resources?</b>
+
 A. Local-exec
   
 B. Null_resource
@@ -60,7 +61,7 @@ B. Null_resource
 C. Salt-masterless
   
 D. Remote-exec
-</b>
+
 
 <details>
 <summary>Answer</summary><br><b>
