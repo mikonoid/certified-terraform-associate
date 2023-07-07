@@ -1,5 +1,5 @@
 ## Diagram
-![Alt text](image.png)
+![image](https://github.com/mikonoid/certified-terraform-associate/assets/14234200/317f6700-2976-4736-b527-c7f1e68d5223)
 
 ## Prerequisites
 
